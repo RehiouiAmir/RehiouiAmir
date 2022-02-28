@@ -6,7 +6,7 @@ Hi there 👋
 - 💬 Ask me anything about Javascript, Typescript, Angular, Java2EE, Laravel, NodeJS, C#, ASP.NEt  always a pleasure to help people.
 - 🌱 I’m currently learning more about C# (ASP .Net core)
 
-I'm always looking for new opportunities, you can always contact me at:
+you can always contact me at:
 📫 rehiouiamir6@gmail.com
 
 <!---
